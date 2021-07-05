@@ -1,4 +1,4 @@
-EESM 5320 Course Project - Receiver System Design
+EESM 5320 Course RF Project - Receiver System Design
 ===============================================
 An integrated wireless receiver at the system level with WLAN 802.11a specifications is implemented.
 
